@@ -1,0 +1,10 @@
+^D:\SOURCE_CODE\VSCODE\CPP\RAYTRACING_INONEWEEKEND\BUILD\CMAKEFILES\6F7DDC92BC3A2B451EFCCC067D12C733\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/source_code/VSCode/cpp/Raytracing_InOneWeekend -BD:/source_code/VSCode/cpp/Raytracing_InOneWeekend/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/source_code/VSCode/cpp/Raytracing_InOneWeekend/build/RayTracingInOneWeekend.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
