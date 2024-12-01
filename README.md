@@ -45,7 +45,7 @@ Ensuring that the next ray starts just slightly above the surface. Ignoring any 
   - If t_min is too large, it could cause small gaps or artifacts in your render where surfaces should touch.
 
 - **Performance:**  
-  Every ray-tracing calculation now includes an additional condition to check the intersection distance against t_min.
+  Every ray-tracing calculation now includes an additional condition to check (t_min).
 
 - **Accuracy:**  
   This is a hack, not a physically accurate fix. A more robust solution would involve improving precision or using higher-resolution intersection tests, but these are computationally expensive.
