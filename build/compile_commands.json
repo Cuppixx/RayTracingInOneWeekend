@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/source_code/VSCode/cpp/RayTracingInOneWeekend/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++26 -o CMakeFiles\\raytracing.dir\\main.cpp.obj -c D:\\source_code\\VSCode\\cpp\\RayTracingInOneWeekend\\main.cpp",
+  "file": "D:/source_code/VSCode/cpp/RayTracingInOneWeekend/main.cpp",
+  "output": "CMakeFiles/raytracing.dir/main.cpp.obj"
+}
+]

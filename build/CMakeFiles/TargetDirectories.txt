@@ -1,3 +1,3 @@
-D:/source_code/VSCode/cpp/Raytracing_InOneWeekend/build/CMakeFiles/raytracing.dir
-D:/source_code/VSCode/cpp/Raytracing_InOneWeekend/build/CMakeFiles/ALL_BUILD.dir
-D:/source_code/VSCode/cpp/Raytracing_InOneWeekend/build/CMakeFiles/ZERO_CHECK.dir
+D:/source_code/VSCode/cpp/RayTracingInOneWeekend/build/CMakeFiles/raytracing.dir
+D:/source_code/VSCode/cpp/RayTracingInOneWeekend/build/CMakeFiles/edit_cache.dir
+D:/source_code/VSCode/cpp/RayTracingInOneWeekend/build/CMakeFiles/rebuild_cache.dir
